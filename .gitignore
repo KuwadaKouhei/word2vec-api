@@ -1,0 +1,21 @@
+# 環境変数
+.env
+
+# モデルファイル
+models/
+*.kv
+*.kv.vectors.npy
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
